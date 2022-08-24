@@ -1,0 +1,94 @@
+services:
+  service0:
+    image: nginx:latest
+
+  service1:
+    image: nginx:latest
+
+  service2:
+    image: nginx:latest
+
+  service3:
+    image: nginx:latest
+
+  service4:
+    image: nginx:latest
+
+  service5:
+    image: nginx:latest
+
+  service6:
+    image: nginx:latest
+
+  service7:
+    image: nginx:latest
+
+  service8:
+    image: nginx:latest
+
+  service9:
+    image: nginx:latest
+
+  service10:
+    image: nginx:latest
+
+  service11:
+    image: nginx:latest
+
+  service12:
+    image: nginx:latest
+
+  service13:
+    image: nginx:latest
+
+  service14:
+    image: nginx:latest
+
+  service15:
+    image: nginx:latest
+
+  service16:
+    image: nginx:latest
+
+  service17:
+    image: nginx:latest
+
+  service18:
+    image: nginx:latest
+
+  service19:
+    image: nginx:latest
+
+  service20:
+    image: nginx:latest
+
+  service21:
+    image: nginx:latest
+
+  service22:
+    image: nginx:latest
+
+  service23:
+    image: nginx:latest
+
+  service24:
+    image: nginx:latest
+
+  service25:
+    image: nginx:latest
+
+  service26:
+    image: nginx:latest
+
+  service27:
+    image: nginx:latest
+
+  service28:
+    image: nginx:latest
+
+  service29:
+    image: nginx:latest
+
+  service30:
+    image: nginx:latest
+
